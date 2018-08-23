@@ -12,6 +12,9 @@
 		C9D2EEA7212DE36F004CAC85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D2EEA5212DE36F004CAC85 /* Main.storyboard */; };
 		C9D2EEA9212DE370004CAC85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D2EEA8212DE370004CAC85 /* Assets.xcassets */; };
 		C9D2EEAC212DE370004CAC85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D2EEAA212DE370004CAC85 /* LaunchScreen.storyboard */; };
+		C9D2EEB6212DE39D004CAC85 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D2EEB3212DE39D004CAC85 /* cross.png */; };
+		C9D2EEB7212DE39D004CAC85 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D2EEB4212DE39D004CAC85 /* board.png */; };
+		C9D2EEB8212DE39D004CAC85 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D2EEB5212DE39D004CAC85 /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		C9D2EEA8212DE370004CAC85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9D2EEAB212DE370004CAC85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9D2EEAD212DE370004CAC85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9D2EEB3212DE39D004CAC85 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		C9D2EEB4212DE39D004CAC85 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		C9D2EEB5212DE39D004CAC85 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				C9D2EEA1212DE36F004CAC85 /* AppDelegate.swift */,
 				C9D2EEA3212DE36F004CAC85 /* ViewController.swift */,
 				C9D2EEA5212DE36F004CAC85 /* Main.storyboard */,
+				C9D2EEB4212DE39D004CAC85 /* board.png */,
+				C9D2EEB3212DE39D004CAC85 /* cross.png */,
+				C9D2EEB5212DE39D004CAC85 /* nought.png */,
 				C9D2EEA8212DE370004CAC85 /* Assets.xcassets */,
 				C9D2EEAA212DE370004CAC85 /* LaunchScreen.storyboard */,
 				C9D2EEAD212DE370004CAC85 /* Info.plist */,
@@ -124,6 +133,9 @@
 			files = (
 				C9D2EEAC212DE370004CAC85 /* LaunchScreen.storyboard in Resources */,
 				C9D2EEA9212DE370004CAC85 /* Assets.xcassets in Resources */,
+				C9D2EEB8212DE39D004CAC85 /* nought.png in Resources */,
+				C9D2EEB6212DE39D004CAC85 /* cross.png in Resources */,
+				C9D2EEB7212DE39D004CAC85 /* board.png in Resources */,
 				C9D2EEA7212DE36F004CAC85 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
